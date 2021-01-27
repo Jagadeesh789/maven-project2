@@ -59,7 +59,7 @@
             </plugin>
 
             <plugin>
-              <artifactId>maven-javadoc-plugin</artifactId>
+              <artifactId>java-javadoc-plugin</artifactId>
             </plugin>
 
             <plugin>
